@@ -1,0 +1,26 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'compound_cmos layout ELG4137_Lib':
+  info: Assign pin label "vin_a" at (0.0300, 1.0700) to layer `metal1_conn'.
+  info: Assign pin label "vss" at (1.2100, 0.0300) to layer `metal1_conn'.
+  info: Assign pin label "vin_b" at (0.0300, 1.3950) to layer `metal1_conn'.
+  info: Assign pin label "vin_c" at (0.0300, 1.6300) to layer `metal1_conn'.
+  info: Assign pin label "vout_f" at (2.3950, 1.5450) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (1.2150, 2.9950) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'compound_cmos layout ELG4137_Lib':
+  info: Assign pin label "vin_a" at (0.0300, 1.0700) to layer `metal1_conn'.
+  info: Assign pin label "vss" at (1.2100, 0.0300) to layer `metal1_conn'.
+  info: Assign pin label "vin_b" at (0.0300, 1.3950) to layer `metal1_conn'.
+  info: Assign pin label "vin_c" at (0.0300, 1.6300) to layer `metal1_conn'.
+  info: Assign pin label "vout_f" at (2.3950, 1.5450) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (1.2150, 2.9950) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

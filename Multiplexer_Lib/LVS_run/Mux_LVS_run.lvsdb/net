@@ -1,0 +1,10 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 bind match unmatched shorts opens
+1 0 ((L "EN")((1 "g45p1svt:ParMos2#1" ( "IN1" "IN2"))(1 "g45n1svt:SerMos2#1" ( "IN1" "IN2")))(S "EN")((1 "g45n1svt" ( "G"))(1 "g45p1svt:ParMos2#1" ( "IN1" "IN2"))))
+1 0 ((L "vss")((4 "g45n1svt" ( "D" "S"))(10 "g45n1svt" ( "B"))(1 "g45n1svt:SerMos2#1" ( "OUT" "OUT2"))(1 "g45n1svt:SerMos2#1" ( "TERM4")))(S "vss")((5 "g45n1svt" ( "D" "S"))(11 "g45n1svt" ( "B"))))
+1 2 ((S "I9/net1")(L "avC15"))
+1 1 ((L "avC18")((2 "g45p1svt" ( "D" "S"))(2 "g45n1svt" ( "D" "S"))(1 "g45p1svt:ParMos2#1" ( "IN1" "IN2"))(1 "g45n1svt:SerMos2#1" ( "IN1" "IN2")))(S "net6")((2 "g45p1svt" ( "D" "S"))(2 "g45n1svt" ( "D" "S"))(1 "g45n1svt" ( "G"))(1 "g45p1svt:ParMos2#1" ( "IN1" "IN2"))))
+1 1 ((L "avC12")((1 "g45p1svt" ( "G"))(1 "g45n1svt" ( "G"))(1 "g45p1svt:ParMos2#1" ( "OUT" "OUT2"))(1 "g45n1svt:SerMos2#1" ( "OUT" "OUT2")))(S "net7")((1 "g45p1svt" ( "G"))(1 "g45n1svt" ( "D" "S"))(1 "g45n1svt" ( "G"))(1 "g45p1svt:ParMos2#1" ( "OUT" "OUT2"))))
+1 1 ((L "avC17")((2 "g45p1svt" ( "D" "S"))(2 "g45n1svt" ( "D" "S")))(S "net2")((3 "g45p1svt" ( "D" "S"))(3 "g45n1svt" ( "D" "S"))))

@@ -1,0 +1,17 @@
+
+
+;----------------------------------------------------------------------------
+; vldb RSF file
+; Created by the Assura UI
+;----------------------------------------------------------------------------
+
+; form additions
+avSimName = "auLvs"
+avDisableWildcardPG = nil
+avVerilogBusMapIEEE = t
+avLibName  = "ELG4137_Lib"
+avCellName = "cmos_unit_inverter"
+avViewName = "schematic"
+avViewList = "auLvs schematic symbol"
+avStopList = "auLvs"
+avVldbFile = "/home/bepee037/Shared/ELG4137/ELG4137_Lib/LVS_run/inv_LVS_run.sdb"

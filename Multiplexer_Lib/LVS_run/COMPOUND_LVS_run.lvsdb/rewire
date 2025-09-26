@@ -1,0 +1,5 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 terminal shorts opens
+1 0 ( "OUT" "I##7" "vout_f" "avC9" "vout_f")

@@ -1,0 +1,6 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 bind match unmatched shorts opens
+1 0 ((L "vout_f")((1 "g45p1svt" ( "D" "S"))(1 "g45n1svt:SerMos3#1" ( "OUT" "OUT2")))(S "vout_f")((1 "g45p1svt" ( "D" "S"))(1 "g45p1svt:SerMos2#1" ( "OUT" "OUT2"))(1 "g45n1svt:SerMos3#1" ( "OUT" "OUT2"))))
+1 2 ((L "avC9"))

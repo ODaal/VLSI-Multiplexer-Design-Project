@@ -1,0 +1,8 @@
+vuiLVSdebugRunInfo = list( nil
+   'layoutLibrary "ELG4137_Lib"
+   'layoutCell "compound_cmos"
+   'layoutView "layout"
+   'schematicLibrary "ELG4137_Lib"
+   'schematicCell "compound_cmos"
+   'schematicView "schematic"
+)
