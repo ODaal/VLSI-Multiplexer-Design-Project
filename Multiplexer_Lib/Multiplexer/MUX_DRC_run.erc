@@ -1,0 +1,17 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'multiplexer5 layout ELG4137_Lib':
+  info: Assign pin label "vss" at (0.0250, 0.2800) to layer `metal1_conn'.
+  info: Assign pin label "S0" at (0.0400, 0.9900) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.0400, 1.8000) to layer `metal1_conn'.
+  info: Assign pin label "L1" at (2.3650, 1.0400) to layer `metal1_conn'.
+  info: Assign pin label "L3" at (3.7750, 1.0250) to layer `metal1_conn'.
+  info: Assign pin label "L0" at (4.7900, 0.9900) to layer `metal1_conn'.
+  info: Assign pin label "L2" at (6.2300, 1.0450) to layer `metal1_conn'.
+  info: Assign pin label "S1" at (7.1350, 1.0250) to layer `metal1_conn'.
+  info: Assign pin label "EN" at (10.6350, 1.0150) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (14.1550, 1.3200) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

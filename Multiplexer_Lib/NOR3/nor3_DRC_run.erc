@@ -1,0 +1,13 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'nor3 layout ELG4137_Lib':
+  info: Assign pin label "C" at (0.0300, 1.0200) to layer `metal1_conn'.
+  info: Assign pin label "B" at (0.0350, 1.3150) to layer `metal1_conn'.
+  info: Assign pin label "vss" at (1.3200, 0.0300) to layer `metal1_conn'.
+  info: Assign pin label "A" at (0.0300, 1.6500) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (3.2100, 1.3200) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (1.6300, 3.4300) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
