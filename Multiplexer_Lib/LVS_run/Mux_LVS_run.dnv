@@ -1,0 +1,8 @@
+vuiLVSdebugRunInfo = list( nil
+   'layoutLibrary "ELG4137_Lib"
+   'layoutCell "multiplexer5"
+   'layoutView "layout"
+   'schematicLibrary "ELG4137_Lib"
+   'schematicCell "multiplexer"
+   'schematicView "schematic"
+)

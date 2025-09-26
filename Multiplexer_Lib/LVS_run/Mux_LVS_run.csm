@@ -1,0 +1,6 @@
+Schematic                        | Layout                          | Status
+-------------------------------------------------------------------------------
+multiplexer schematic ELG4137_Lib| multiplexer5 layout ELG4137_Lib | errors  *
+
+Mismatch between Schematic and Layout
+   1 cell with errors

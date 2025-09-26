@@ -1,0 +1,22 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'cmos_unit_inverter layout ELG4137_Lib':
+  info: Assign pin label "vss" at (0.6050, 0.0300) to layer `metal1_conn'.
+  info: Assign pin label "vin" at (0.0300, 0.6200) to layer `metal1_conn'.
+  info: Assign pin label "vout" at (1.1800, 0.6200) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.6050, 1.2100) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'cmos_unit_inverter layout ELG4137_Lib':
+  info: Assign pin label "vss" at (0.6050, 0.0300) to layer `metal1_conn'.
+  info: Assign pin label "vin" at (0.0300, 0.6200) to layer `metal1_conn'.
+  info: Assign pin label "vout" at (1.1800, 0.6200) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.6050, 1.2100) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

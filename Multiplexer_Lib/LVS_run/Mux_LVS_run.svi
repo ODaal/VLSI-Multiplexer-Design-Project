@@ -1,0 +1,24 @@
+Version 3
+4 pnp_emit 1 279 14 0
+4 ind10 1 200 66 0
+4 ind_ct 1 357 70 0
+4 ind11 1 264 70 0
+4 Nburied 1 151 18 0
+4 npn_emit 1 275 12 0
+4 poly_conn 1 233 10 0
+4 CapMetal 1 115 97 0
+4 nwell_conn 1 226 6 0
+4 ndiff_conn 1 236 12 0
+4 pdiff_conn 1 231 14 0
+4 metal1_conn 1 203 30 0
+4 metal2_conn 1 204 34 0
+4 metal3_conn 1 205 38 0
+4 metal4_conn 1 206 42 0
+4 metal5_conn 1 207 46 0
+4 metal6_conn 1 208 50 0
+4 metal7_conn 1 209 54 0
+4 metal8_conn 1 210 58 0
+4 metal9_conn 1 211 62 0
+4 metal10_conn 1 269 66 0
+4 metal11_conn 1 271 70 0
+4 Bondpad 1 112 95 0
