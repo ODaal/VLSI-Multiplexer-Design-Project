@@ -1,0 +1,47 @@
+text metal11_conn_text attach metal11_conn
+text metal11_conn_pintext attach metal11_conn
+text metal10_conn_text attach metal10_conn
+text metal10_conn_pintext attach metal10_conn
+text metal9_conn_text attach metal9_conn
+text metal9_conn_pintext attach metal9_conn
+text metal8_conn_text attach metal8_conn
+text metal8_conn_pintext attach metal8_conn
+text metal7_conn_text attach metal7_conn
+text metal7_conn_pintext attach metal7_conn
+text metal6_conn_text attach metal6_conn
+text metal6_conn_pintext attach metal6_conn
+text metal5_conn_text attach metal5_conn
+text metal5_conn_pintext attach metal5_conn
+text metal4_conn_text attach metal4_conn
+text metal4_conn_pintext attach metal4_conn
+text metal3_conn_text attach metal3_conn
+text metal3_conn_pintext attach metal3_conn
+text metal2_conn_text attach metal2_conn
+text metal2_conn_pintext attach metal2_conn
+text metal1_conn_text attach metal1_conn
+text metal1_conn_pintext attach metal1_conn
+text poly_conn_text attach poly_conn
+text poly_conn_pintext attach poly_conn
+connect Bondpad metal11_conn by bp_tap
+connect metal11_conn CapMetal by via10_cap
+connect metal11_conn metal10_conn by via10_nocap
+connect metal10_conn metal9_conn by Via9
+connect metal9_conn metal8_conn by Via8
+connect metal8_conn metal7_conn by Via7
+connect metal7_conn metal6_conn by Via6
+connect metal6_conn metal5_conn by Via5
+connect metal5_conn metal4_conn by Via4
+connect metal4_conn metal3_conn by Via3
+connect metal3_conn metal2_conn by Via2
+connect metal2_conn metal1_conn by Via1
+connect metal1_conn poly_conn by cont_poly
+connect metal1_conn pdiff_conn by cont_pdiff
+connect metal1_conn npn_emit by cont_ndiff
+connect metal1_conn ndiff_conn by cont_ndiff
+connect npn_emit ndiff_conn by cont_ndiff
+stamp ptap by pdiff_conn
+stamp psubstrate by ptap
+stamp ntap by ndiff_conn
+stamp nwell_conn by ntap
+stamp nb_tap by nwell_conn
+stamp Nburied by nb_tap

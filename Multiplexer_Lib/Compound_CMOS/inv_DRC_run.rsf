@@ -1,0 +1,20 @@
+;----------------------------------------------------------------------------
+; @(#)$CDS: assura version av4.1:Production:dfII6.1.8-64b:IC6.1.8-64b.500.17 03/26/21 09:51 (sjfhw780) $
+; sub-version 4.1_USR6_HF11
+;----------------------------------------------------------------------------
+
+
+;----------------------------------------------------------------------------
+; avParameter Section
+; Created by the Assura UI
+;----------------------------------------------------------------------------
+
+avParameters(
+  ?inputLayout ( "df2" "ELG4137_Lib" )
+  ?cellName "compound_cmos"
+  ?viewName "layout"
+  ?runName "inv_DRC_run"
+  ?workingDirectory "./ELG4137_Lib/Compound_CMOS"
+  ?rulesFile "./gpdk045_v_5_0/assura/assuraDRC.rul"
+  ?avrpt t
+)
