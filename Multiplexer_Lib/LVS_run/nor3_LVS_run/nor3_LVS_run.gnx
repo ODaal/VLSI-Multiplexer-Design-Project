@@ -1,0 +1,22 @@
+# 4
+g45n1svt(MOS): g45n1svt(MOS)
+= D D B
+= G G B
+= S S B
+= B B B
+# 4
+g45p1svt(MOS): g45p1svt(MOS)
+= D D B
+= G G B
+= S S B
+= B B B
+# 8
+nor3 schematic ELG4137_Lib: nor3 layout ELG4137_Lib
+= net2 avC7
+= net1 avC8
+= vdd vdd I
+= vss vss I
+= A A I
+= B B I
+= C C I
+= Y Y O

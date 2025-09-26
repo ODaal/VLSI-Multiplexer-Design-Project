@@ -1,0 +1,47 @@
+avParameters(
+	?cellName "nor3"
+	?viewName "layout"
+	?inputLayout ( "DFII" "ELG4137_Lib" )
+	?runName "nor3_LVS_run"
+	?workingDirectory "/home/bepee037/ELG4137/ELG4137_Lib/LVS_run"
+
+)
+rcxParameters(
+	?capCouplingFactor 1.0
+	?capGround "vss"
+	?arrayViasSpacing "auto"
+	?macroCellsType "default"
+	?maxFractureLength "infinite"
+	?fractureLengthUnits "MICRONS"
+	?maxMergedViaSize "auto"
+	?netNameSpace "layout"
+	?excludeSelfCapsExtended "Y"
+	?minC 1e-17
+	?minCByPercentage 0.1
+	?mergeParallelR nil
+	?minR 0.001
+	?hierarchyDelimiter "/"
+	?lvsSource "assura"
+	?deviceFingerDelimiter "@"
+	?outputHierarchyDelimiter "/"
+	?capModels "no"
+	?parasiticCapModels "no"
+	?parasiticResModels "comment"
+	?resModels "no"
+	?subNodeChar "#"
+	?outputFormat "spice"
+	?lvsExtractedCellView nil
+	?output "/home/bepee037/ELG4137/ELG4137_Lib"
+	?outputNetNameSpace "schematic"
+	?runName "nor3_LVS_run"
+	?tempdir "/home/bepee037/ELG4137/ELG4137_Lib/LVS_run/nor3_LVS_run/rcx_temp"
+	?rcxSetupDir ( "/home/bepee037/ELG4137/gpdk045_v_5_0/qrc/typical" )
+	?temperature ( 25.0 )
+	?type "full"
+	?extract "both"
+	?capExtractMode "coupled"
+
+)
+(avRCX)
+
+
